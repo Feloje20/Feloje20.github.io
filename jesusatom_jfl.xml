@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="es-es">
+
+	<title>Práctica RA3 3_3</title>
+	<link rel="self" href="/feed" />
+	<updated>2022-12-13T18:30:02Z</updated>
+	<author>
+		<name>Jesús Ferrer</name>
+	</author>
+	<id>urn:uuid:60a76c80-d399-11d9-b93C-0003939e0af6</id>
+	<category term="videojuegos"/>
+	<rights> © 20023 Jesús Ferrer </rights>
+
+	<entry>
+		<title>Se filtra un video del nuevo dragon age</title>
+		<link href="https://vandal.elespanol.com/noticia/1350759774/se-filtran-supuestas-imagenes-de-dragon-age-dreadwolf/"/>
+		<id>https://vandal.elespanol.com/noticia</id>
+		<updated>2023-12-13T18:30:02Z</updated>
+		<author>
+			<name>Jesús Ferrer</name>
+		</author>
+	</entry>
+
+	<entry>
+		<title>Index html</title>
+		<link href="https://github.com/Feloje20/Feloje20.github.io/blob/5656ce300d1ad934cf15e4bac6b3fd9e4d733f71/index.html"/>
+		<id>https://github.com/Feloje20/RA3-ATOM/blob/main/index.html</id>
+		<updated>2023-12-13T18:30:02Z</updated>
+		<author>
+			<name>Jesús Ferrer</name>
+		</author>
+	</entry>
+
+	<entry>
+		<title>Pdf</title>
+		<link href="https://github.com/Feloje20/Feloje20.github.io/blob/5656ce300d1ad934cf15e4bac6b3fd9e4d733f71/Act2-RA3%20-%20ATOM.pdf"/>
+		<id>https://github.com/Feloje20/RA3-ATOM/blob/main/Act2-RA3%20-%20ATOM.pdf</id>
+		<updated>2023-12-13T18:30:02Z</updated>
+		<author>
+			<name>Jesús Ferrer</name>
+		</author>
+	</entry>
+
+	<entry>
+		<title>Video</title>
+		<link href="https://github.com/Feloje20/Feloje20.github.io/blob/5656ce300d1ad934cf15e4bac6b3fd9e4d733f71/videoplayback.mp4"/>
+		<id>https://github.com/Feloje20/RA3-ATOM/blob/main/videoplayback.mp4</id>
+		<updated>2023-12-13T18:30:02Z</updated>
+		<author>
+			<name>Jesús Ferrer</name>
+		</author>
+	</entry>
+
+</feed>
