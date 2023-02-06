@@ -30,7 +30,7 @@
       <title>Google stadia cierra</title>
       <link>https://www.revistagq.com/noticias/articulo/por-que-google-stadia-cierra</link>
       <description>Google stadia es inviable, nadie lo consume</description>
-      <enclosure url="https://github.com/Feloje20/RA3---Sindicaci-n-RSS/blob/main/prac.png" length="23859" type="image/png" />
+      <media:thumbnail url='https://github.com/Feloje20/Feloje20.github.io/blob/main/imagenes/stadia.png' height='75' width='75' />
       <author>a22feloje@iesgrancapitan.org</author>
       <pubDate>Sun, 02 Oct 2022 08:00:00 EST</pubDate>
     </item>
@@ -39,7 +39,7 @@
       <title>El creador de Tunic duda de gamepass</title>
       <link>https://vandal.elespanol.com/noticia/1350759274/la-editora-de-tunic-explica-sus-dudas-sobre-los-servicios-de-suscripcion-y-los-juegos-indie/</link>
       <description>El creador de tunic no le convencen las suscripciones</description>
-      <enclosure url="https://github.com/Feloje20/RA3---Sindicaci-n-RSS/blob/main/20231161164374_1.png" length="64722" type="image/png" />
+      <media:thumbnail url='https://github.com/Feloje20/Feloje20.github.io/blob/main/imagenes/tunic.png' height='75' width='75' />
       <author>a22feloje@iesgrancapitan.org</author>
       <pubDate>Sun, 02 Oct 2022 08:00:00 EST</pubDate>
     </item>
@@ -48,7 +48,7 @@
       <title>¿Vampire survivors traerá más DLC's?</title>
       <link>https://www.levelup.com/noticias/718672/Vampire-Survivor-recibira-mas-DLC-Su-creador-comparte-una-agridulce-noticia</link>
       <description>El creador de vampire survivors habla sobre el nuevo contenido de su videojuego</description>
-      <enclosure url="https://github.com/Feloje20/RA3---Sindicaci-n-RSS/blob/main/1642660724_073800_1642662176_noticia_normal.png" length="108654" type="image/png" />
+      <media:thumbnail url='https://github.com/Feloje20/Feloje20.github.io/blob/main/imagenes/vampire.png' height='75' width='75' />
       <author>a22feloje@iesgrancapitan.org</author>
       <pubDate>Sun, 02 Oct 2022 08:00:00 EST</pubDate>
     </item>
@@ -57,7 +57,7 @@
       <title>Atomic heart a la vuelta de la esquina</title>
       <link>https://www.3djuegos.com/juegos/atomic-heart/noticias/buenas-noticias-tienes-ganas-genial-bioshock-sovietico-autores-atomic-heart-confirman-que-juego-esta-terminado-no-esperan-retrasos</link>
       <description>Hablamos sobre la salida del juego de atomic heart</description>
-      <enclosure url="https://github.com/Feloje20/RA3---Sindicaci-n-RSS/blob/main/atomic-heart.png" length="111969" type="image/png" />
+      <media:thumbnail url='https://github.com/Feloje20/Feloje20.github.io/blob/main/imagenes/atomic.png' height='75' width='75' />
       <author>a22feloje@iesgrancapitan.org</author>
       <pubDate>Sun, 02 Oct 2022 08:00:00 EST</pubDate>
     </item>
