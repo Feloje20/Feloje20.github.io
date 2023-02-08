@@ -22,9 +22,9 @@
 	</entry>
 
 	<entry>
-		<title>Index html</title>
-		<link href="https://feloje20.github.io/"/>
-		<id>https://github.com/Feloje20/RA3-ATOM/blob/main/index.html</id>
+		<title>html</title>
+		<link href="https://feloje20.github.io/atom_media/jesus_jfl.html"/>
+		<id>https://feloje20.github.io/atom_media/jesus_jfl.html</id>
 		<updated>2023-12-13T18:30:02Z</updated>
 		<author>
 			<name>Jesús Ferrer</name>
@@ -33,8 +33,8 @@
 
 	<entry>
 		<title>Pdf</title>
-		<link href="https://github.com/Feloje20/Feloje20.github.io/blob/5656ce300d1ad934cf15e4bac6b3fd9e4d733f71/Act2-RA3%20-%20ATOM.pdf"/>
-		<id>https://github.com/Feloje20/RA3-ATOM/blob/main/Act2-RA3%20-%20ATOM.pdf</id>
+		<link href="https://feloje20.github.io/atom_media/video.pdf"/>
+		<id>https://feloje20.github.io/atom_media/video.pdf</id>
 		<updated>2023-12-13T18:30:02Z</updated>
 		<author>
 			<name>Jesús Ferrer</name>
@@ -43,8 +43,8 @@
 
 	<entry>
 		<title>Video</title>
-		<link href="https://github.com/Feloje20/Feloje20.github.io/blob/5656ce300d1ad934cf15e4bac6b3fd9e4d733f71/videoplayback.mp4"/>
-		<id>https://github.com/Feloje20/RA3-ATOM/blob/main/videoplayback.mp4</id>
+		<link href="https://feloje20.github.io/atom_media/video.mp4"/>
+		<id>https://feloje20.github.io/atom_media/video.mp4</id>
 		<updated>2023-12-13T18:30:02Z</updated>
 		<author>
 			<name>Jesús Ferrer</name>
